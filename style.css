@@ -15,6 +15,11 @@ body {
     width: 125px;
 }
 
+.hero-section .sign-up-button {
+    background-color: #3882F6;
+    border: none;
+    color: #f9faf8;
+}
 
 .section1 {
     padding: 100px;
