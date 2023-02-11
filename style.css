@@ -56,3 +56,17 @@ a {
 #hero-button {
    background-color: #3882f6;
 }
+
+.section-2 h1 {
+    color: #1F2937;
+}
+
+.square {
+    border: 3px solid #3882f6;
+}
+
+.quote {
+    color: #1F2937;
+    font-weight: lighter;
+
+}
