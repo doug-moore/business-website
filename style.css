@@ -1,6 +1,6 @@
-* {
+/* * {
     border: 1px solid black;
-}
+} */
 
 #hero-image {
     width: 450px;
@@ -18,3 +18,4 @@
 .header-links {
     flex: 1;
 }
+
