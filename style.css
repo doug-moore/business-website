@@ -27,6 +27,8 @@ body {
 
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 25px;
 }
 
 a {
