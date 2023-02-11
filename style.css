@@ -5,7 +5,12 @@
 
 /* Body */
 body {
-    margin: 0
+    margin: 0;
+}
+
+.section1 {
+    padding: 100px;
+    padding-top: 0px;
 }
 
 /* Section 1 */
