@@ -101,6 +101,10 @@ a {
     
 }
 
+.quote-section h3 {
+    margin: 0;
+}
+
 .quote {
     color: #1F2937;
     font-weight: lighter;
