@@ -6,3 +6,15 @@
     width: 450px;
     height: 250px;
 }
+
+.header {
+    display: flex;
+}
+
+.header-logo {
+    flex: 1;
+}
+
+.header-links {
+    flex: 1;
+}
