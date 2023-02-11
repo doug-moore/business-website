@@ -44,3 +44,11 @@ a {
 #coa-container {
     background-color: #3882F6 ;
 }
+
+.hero-contents h1 {
+    color:#f9faf8 ;
+}
+
+.hero-contents p {
+    color:#E5E7EB ;
+}
