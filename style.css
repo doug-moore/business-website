@@ -12,13 +12,21 @@ body {
 .sign-up-button {
     border-radius: 10px;
     height: 40px;
-    width: 125px;
+    width: 150px;
 }
 
 .hero-section .sign-up-button {
     background-color: #3882F6;
     border: none;
     color: #f9faf8;
+
+}
+
+#coa-container .sign-up-button {
+    background-color: transparent;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    
 }
 
 .section1 {
