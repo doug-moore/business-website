@@ -70,11 +70,30 @@ a {
     text-align: center;
 }
 
-
-.square {
-    border: 3px solid #3882f6;
-
+.info-section {
+    display: flex;
+    justify-content: space-around;
 }
+
+.info-container{
+    width: 150px;
+}
+
+.info-container p {
+    text-align: center;
+}
+
+.info-container img {
+    height: 150px;
+    width: 150px;
+    border: 5px solid  #3882f6;
+}
+
+
+
+
+
+
 
 /* Quote section */
 .quote-section {
