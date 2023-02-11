@@ -2,6 +2,11 @@
     border: 1px solid black;
 } */
 
+body {
+    margin: 0
+}
+
+
 #hero-image {
     width: 450px;
     height: 250px;
@@ -35,10 +40,19 @@ a {
 
 .quote-section {
     background-color: #E5E7EB;
+    
 }
+
+.quote {
+    color: #1F2937;
+    font-weight: lighter;
+    
+}
+
 
 .footer {
     background-color: #1F2937;
+    color: #f9faf8;
 }
 
 #coa-container {
@@ -65,8 +79,6 @@ a {
     border: 3px solid #3882f6;
 }
 
-.quote {
-    color: #1F2937;
-    font-weight: lighter;
-
+#coa-content h1 {
+    margin: 0;
 }
