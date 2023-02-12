@@ -45,8 +45,7 @@ body {
     color: #f9faf8;
     font-size: 27px;
     margin:8px;
-    
-}
+    }
 /* Links */
 
 
@@ -65,22 +64,31 @@ a {
 /* Hero */
 .hero-section {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.hero-contents {
+    width: 500px;
 }
 
 .hero-contents h1 {
     color:#f9faf8 ;
+    font-size: 50px;
+    margin-bottom: 0px;
+    width: 300px;
 }
 
 .hero-contents p {
     color:#E5E7EB ;
     flex-wrap: wrap;
-    
+    margin-top: 8px;
 }
 
 #hero-image {
     width: 450px;
     height: 250px;
+    
 }
 
 #hero-button {
@@ -101,8 +109,6 @@ a {
     justify-content: center;
     gap: 50px;
     margin-bottom: 100px;
-    
-    
 }
 
 .info-container{
@@ -148,11 +154,6 @@ a {
 
 
 /* Call to action */
-#coa-container {
-   
-    
-}
-
 .coa-section {
     padding: 100px;
     display: flex;
@@ -188,14 +189,12 @@ a {
     border: 2px solid #f9faf8;
     color: #f9faf8;
     /* align-self: center; */
-    
 }
 
 /* Footer */
 .footer {
     background-color: #1F2937;
     color: #f9faf8;
-   
 }
 
 .footer p {
