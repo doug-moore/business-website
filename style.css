@@ -16,24 +16,14 @@ body {
     width: 150px;
 }
 
-.hero-section .sign-up-button {
-    background-color: #3882F6;
-    border: none;
-    color: #f9faf8;
-
-}
-
-
-
-.section1 {
-    padding: 130px;
-    padding-top: 0px;
-    padding-bottom: 250px;
-}
 
 /* Section 1 */
 .section1 {
-    background-color: #1F2937;
+    background-color: #1F2937; 
+    padding: 130px;
+    padding-top: 0px;
+    padding-bottom: 200px;
+
 }
 
 /* Header */
@@ -67,6 +57,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 50px;
 }
 
 .hero-contents {
