@@ -23,12 +23,7 @@ body {
 
 }
 
-#coa-container .sign-up-button {
-    background-color: transparent;
-    border: 2px solid #f9faf8;
-    color: #f9faf8;
-    
-}
+
 
 .section1 {
     padding: 100px;
@@ -150,21 +145,40 @@ a {
 
 .coa-section {
     padding: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 #coa-container {
      background-color: #3882F6;
+     padding: 30px;
+     border-radius: 10px;
+     height: 100px;
+     width: 800px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
 }
 
 
-#coa-content h1 {
+#coa-content h2 {
     margin: 0;
     color: #f9faf8;
-   
+    flex: 1;
+    width: 500px;
+    font-size: 25px;
 }
 
 #coa-content p {
     color: #E5E7EB ;
+}
+
+#coa-container .sign-up-button {
+    background-color: transparent;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    /* align-self: center; */
+    
 }
 
 /* Footer */
