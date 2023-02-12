@@ -40,9 +40,12 @@ body {
     display: flex;
 }
 
-.header-logo {
+.header h2 {
     flex: 1;
     color: #f9faf8;
+    font-size: 27px;
+    margin:8px;
+    
 }
 /* Links */
 
